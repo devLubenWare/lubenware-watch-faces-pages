@@ -1,6 +1,6 @@
-# Lubenware Watch Faces
+# LubenWatches
 
-Sitio público de información de Lubenware Watch Faces, una aplicación Android con complemento Wear OS de la marca Lubenware. País de operación: México.
+Sitio público de información de LubenWatches, una aplicación Android con complemento Wear OS de la marca Lubenware. País de operación: México.
 
 Contacto: [support@lubenware.com](mailto:support@lubenware.com).
 
@@ -19,7 +19,7 @@ lubenware-watch-faces/
 
 Destino: [devLubenWare/lubenware-watch-faces-pages](https://github.com/devLubenWare/lubenware-watch-faces-pages).
 
-Política: [HTML del repositorio](lubenware-watch-faces/privacy/index.html). URL de publicación: [Política de privacidad de Lubenware Watch Faces](https://devlubenware.github.io/lubenware-watch-faces-pages/lubenware-watch-faces/privacy/). La ruta no corresponde a la aplicación Runner Style independiente.
+Política: [HTML del repositorio](lubenware-watch-faces/privacy/index.html). URL de publicación: [Política de privacidad de LubenWatches](https://devlubenware.github.io/lubenware-watch-faces-pages/lubenware-watch-faces/privacy/). La ruta no corresponde a la aplicación Runner Style independiente.
 
 Este sitio está preparado para GitHub Pages desde la rama `main`, carpeta `/ (root)`. El archivo `.nojekyll` permite servir el contenido estático sin procesamiento Jekyll. No requiere JavaScript, compilación ni dependencias web.
 
